@@ -2,6 +2,7 @@
 
 # Small-Tools
 apt update && apt install -yq firefox-esr git wget curl file vim tree p7zip-full tmux
+echo 'set mouse=a' >> ~/.vimrc
 
 # Wine
 apt install -yq wine 
